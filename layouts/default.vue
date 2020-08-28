@@ -49,10 +49,11 @@
 .page-enter-active::before,
 .page-leave-active::before {
   content: '';
-  position: absolute;
+  position: fixed;
   top: 0;
   bottom: 0;
   width: 100%;
+  height:100%;
   background: #e2e8f0;
   z-index: 1000;
 }
@@ -65,7 +66,7 @@
 .page-enter-active::after,
 .page-leave-active::after {
   content: '';
-  position: absolute;
+  position: fixed;
   top: 0;
   bottom: 0;
   left: 0;
