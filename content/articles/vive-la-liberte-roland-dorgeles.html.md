@@ -21,7 +21,7 @@ date_creation: 25/08/2019
 
 <p>La motié du livre se concentre essentiellement sur la vie en URSS.</p>
 
-<h2>Quelques extraits</h2>
+## Quelques extraits
 
 <p>"Moscou... Première impression : la misère. Une misère morne et sale qui frotte les êtres les uns aux autres pour les rendre pareils. Première couleur : le gris."</p>
 
