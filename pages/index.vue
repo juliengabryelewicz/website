@@ -42,12 +42,13 @@ export default {
       .fetch()
 
     const saviezvous = await $content('saviezvous', params.slug)
-      .sortBy('position', 'desc')
-      .limit(1)
       .fetch()
+
+    const random = Math.floor(Math.random() * saviezvous.length);
+
     return {
       'article' : articles[0],
-      'saviezvous' : saviezvous[0],
+      'saviezvous' : saviezvous[random],
     }
   },
   head() {
