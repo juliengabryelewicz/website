@@ -5,7 +5,7 @@
           <input :checked="checked" type="checkbox" id="menuToggle" class="hidden"></input>
 
           <label for="menuToggle" class="menuOpen" @click="toggleMenu(true)">
-            <div class="open"></div>
+            <div class="open" @click="toggleMenu(true)"></div>
           </label>
 
           <div class="menu menuEffects">

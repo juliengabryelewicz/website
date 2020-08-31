@@ -56,7 +56,7 @@ seo_description: Mon Curriculum Vitae
         <h3>Linguistique</h3>
         <div class="text-justify">
         <ul>
-            <li>NLP: NlpTools, SpaCy</li>
+            <li>NLP: NlpTools, NLP.js, SpaCy</li>
             <li>NLU : Snips</li>
             <li>Chatbot : BotKit</li>
         </ul>
@@ -91,19 +91,6 @@ seo_description: Mon Curriculum Vitae
         <ul>
             <li>Jira, Mantis, Redmine</li>
             <li>Docker, Git, SVN</li>
-        </ul>
-        </div>
-    </div>
-    <div class="p-4">
-        <h3>Gestion de projet</h3>
-        <div class="text-justify">
-        <ul>
-            <li>Rédaction de cahiers des charges et de planning</li>
-            <li>Gestion des crises</li>
-            <li>Recrutement d'une équipe et attribution des tâches</li>
-            <li>Méthodes agiles (Scrum/XP/Crystal Clear)</li>
-            <li>Stratégies d'entreprise</li>
-            <li>MS Project</li>
         </ul>
         </div>
     </div>
