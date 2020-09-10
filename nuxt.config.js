@@ -54,7 +54,8 @@ export default {
   modules: ['@nuxt/content', '@nuxtjs/redirect-module'],
   redirect: [
     { from: '^/blog/post/(.*)$', to: '/article/$1' },
-    { from: '^/blog/category/(.*)$', to: '/category/$1' } 
+    { from: '^/blog/category/(.*)$', to: '/category/$1' },
+    { from: '^/blog', to: '/' }
   ],
   /*
   ** Build configuration
